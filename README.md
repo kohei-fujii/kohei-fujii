@@ -1,4 +1,4 @@
-### Hi there 👋 I'm full stack engineer 👨‍💻 
+I'm full stack engineer 👨‍💻 
 
 <h4> 🔭 Languages</h4>
 
